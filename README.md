@@ -2,6 +2,8 @@
 
 This repository contains various experiments and implementations using [LangChain](https://python.langchain.com/), focusing on building AI agents, chatbots, and chains.
 
+Learning features of LangChain. First step towards GenAI.
+
 ## Structure
 
 *   **chains/**: Examples of different LangChain chains.
@@ -17,7 +19,7 @@ This repository contains various experiments and implementations using [LangChai
 
 1.  **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/LangChain_models.git
+    git clone https://github.com/tirthh1207/LangChain_Playground-.git
     cd LangChain_models
     ```
 
